@@ -1,1 +1,1 @@
-from .login_admin_page import LoginAdminPage
+from .elements_pages import AdminPage, RegisterPage, MainPage, DesktopsPage, ProductCard
